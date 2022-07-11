@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/reactblog/static/css/main.33680c5d.css",
+    "main.js": "/reactblog/static/js/main.d3b17ecc.js",
+    "static/media/space-ladder-mars.jpg": "/reactblog/static/media/space-ladder-mars.b964db6dba755d659ee3.jpg",
+    "index.html": "/reactblog/index.html",
+    "main.33680c5d.css.map": "/reactblog/static/css/main.33680c5d.css.map",
+    "main.d3b17ecc.js.map": "/reactblog/static/js/main.d3b17ecc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33680c5d.css",
+    "static/js/main.d3b17ecc.js"
+  ]
+}
